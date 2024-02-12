@@ -2,10 +2,10 @@
 *::before,
 *::after {
     --azul-profundo: #01080E;
-    --azul-escuro: #041832;
+    --azul-escuro: #010a16;
     --azul-medio: #144480;
-    --azul-destaque-light: #1875E9;
-    --azul-destaque-dark: #3985D8;
+    --azul-destaque-light: #0e1ce2;
+    --azul-destaque-dark: #0a76e9;
     --cinza-escuro: #222222;
     --cinza-medio: #C5C5C5;
     --cinza-claro: #F2F2F2;
